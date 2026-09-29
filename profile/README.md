@@ -15,5 +15,6 @@ ParalleX explores AI and applied data systems. Focus areas include bounded AI wo
 - [Humanitarian AI Risk Screen](https://github.com/parallexlabs/humanitarian-ai-risk-screen): a seven-step screen and training materials that help humanitarian and NGO staff decide whether and how to use an AI tool.
 - [Humanitarian AI Training Kit](https://github.com/parallexlabs/humanitarian-ai-training-kit): open, bilingual (English and French) and accessible training on responsible AI use in humanitarian action, with [a live site and tagged PDFs](https://parallexlabs.github.io/humanitarian-ai-training-kit/).
 - [Before You Paste](https://github.com/parallexlabs/before-you-paste): a bilingual practice lab, [live in the browser](https://parallexlabs.github.io/before-you-paste/), for checking text for personal and sensitive details before it goes into a generative AI tool. It runs on the device, asks permission questions first, and sends nothing to a server.
+- [Source Check Lab](https://github.com/parallexlabs/source-check-lab): a bilingual practice lab, [live in the browser](https://parallexlabs.github.io/source-check-lab/), for checking an AI-written summary against its sources, claim by claim. People commit a verdict first; optional hints run on the device.
 
 Contact: info@parallexlabs.ca | Website: https://parallexlabs.ca/
