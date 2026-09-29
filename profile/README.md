@@ -13,5 +13,6 @@ ParalleX explores AI and applied data systems. Focus areas include bounded AI wo
 - [OpenData Sentinel](https://github.com/parallexlabs/opendata-sentinel): quality checks for municipal open data, with an accessible report and a correction backlog.
 - [Glossary Kit](https://github.com/parallexlabs/glossary-kit): glossary-as-code for public-sector data governance teams.
 - [Humanitarian AI Risk Screen](https://github.com/parallexlabs/humanitarian-ai-risk-screen): a seven-step screen and training materials that help humanitarian and NGO staff decide whether and how to use an AI tool.
+- [Humanitarian AI Training Kit](https://github.com/parallexlabs/humanitarian-ai-training-kit): open, bilingual (English and French) and accessible training on responsible AI use in humanitarian action, with [a live site and tagged PDFs](https://parallexlabs.github.io/humanitarian-ai-training-kit/).
 
 Contact: info@parallexlabs.ca | Website: https://parallexlabs.ca/
