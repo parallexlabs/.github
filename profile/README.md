@@ -1,3 +1,10 @@
+<p align="center" class="brand-mark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/parallex-mark-dark.png">
+    <img src="brand/parallex-mark.png" alt="ParalleX Labs" width="140">
+  </picture>
+</p>
+
 # ParalleX Labs Inc.
 
 ParalleX explores AI and applied data systems. Focus areas include bounded AI workflows, evaluation methods, data analysis and research software. Published repositories should identify whether their results are demonstrations or production-ready tools.
