@@ -19,6 +19,9 @@ ParalleX explores AI and applied data systems. Focus areas include bounded AI wo
 
 - [OpenData Sentinel](https://github.com/parallexlabs/opendata-sentinel): quality checks for municipal open data, with an accessible report and a correction backlog.
 - [Glossary Kit](https://github.com/parallexlabs/glossary-kit): glossary-as-code for public-sector data governance teams.
+- [Surrey ArcGIS public-data proof](https://github.com/parallexlabs/surrey-arcgis-proof): City of Surrey development applications as schematic 3D extrusions with the ArcGIS Maps SDK for JavaScript, built from public data with an accessible facts list. Not a City system.
+- [civic-publish-kit](https://github.com/parallexlabs/civic-publish-kit): a public-data rehearsal of a reviewable update cycle for a City open-data layer, with provenance, plain-language validation reports and local rollback.
+- [Massing Provenance Kit](https://github.com/parallexlabs/massing-provenance-kit): schematic building massing (GeoJSON and glTF) where every height carries its stated source, uncertainty and validation report.
 - [Humanitarian AI Risk Screen](https://github.com/parallexlabs/humanitarian-ai-risk-screen): a seven-step screen and training materials that help humanitarian and NGO staff decide whether and how to use an AI tool.
 - [Humanitarian AI Training Kit](https://github.com/parallexlabs/humanitarian-ai-training-kit): open, bilingual (English and French) and accessible training on responsible AI use in humanitarian action, with [a live site and tagged PDFs](https://parallexlabs.github.io/humanitarian-ai-training-kit/).
 - [AI Transparency Card](https://github.com/parallexlabs/ai-transparency-card): a bilingual (English and French) tool, [live in the browser](https://parallexlabs.github.io/ai-transparency-card/), for building a one-page transparency card for one proposed AI use, using SAFE AI's published tiers. Nothing you enter leaves the browser.
