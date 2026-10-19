@@ -15,7 +15,7 @@ ParalleX explores AI and applied data systems. Focus areas include bounded AI wo
 
 **Our own work, with credited open-source parts.** We build what we publish here from public data and synthetic examples. Where a repository uses open-source parts made by others, it names them and their licences. It never includes client data, client projects, or anyone else's confidential information.
 
-How we work: our own code and documentation in these repositories were written with AI coding assistants and reviewed, tested and revised by Amir Daneshpajouh; open-source parts made by others are credited where used.
+How we work: our own code and documentation in these repositories were written with AI coding assistants under the direction of Amir Daneshpajouh, and checked by their tests and an AI-assisted release check before publication; open-source parts made by others are credited where used.
 
 ## Public projects
 
@@ -31,6 +31,6 @@ How we work: our own code and documentation in these repositories were written w
 - [Source Check Lab](https://github.com/parallexlabs/source-check-lab): a bilingual practice lab, [live in the browser](https://parallexlabs.github.io/source-check-lab/), for checking an AI-written summary against its sources, claim by claim. People commit a verdict first; optional hints run on the device.
 - [Translation Check Lab](https://github.com/parallexlabs/translation-check-lab): a bilingual practice lab, [live in the browser](https://parallexlabs.github.io/translation-check-lab/), for checking short humanitarian broadcast SMS messages and their translations before sending. It flags changed numbers, times, contacts, negation and dropped instructions, and a person's review record gates the final text; optional translation models run on the device.
 
-We are open-sourcing more of our tools and learning materials in stages. Each new repository appears here after its tests, review and accessibility checks.
+We are open-sourcing more of our tools and learning materials in stages. Each new repository appears here after its tests pass and an AI-assisted release check of its code, text and accessibility.
 
 Contact: info@parallexlabs.ca | Website: https://parallexlabs.ca/
