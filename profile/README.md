@@ -7,7 +7,7 @@
 
 # ParalleX Labs Inc.
 
-ParalleX explores AI and applied data systems. Focus areas include bounded AI workflows, evaluation methods, data analysis and research software. Published repositories should identify whether their results are demonstrations or production-ready tools.
+ParalleX explores AI and applied data systems. It has published 15 open tools and studies, listed below, from municipal open-data checks to bilingual practice labs on responsible AI use. Focus areas include bounded AI workflows, evaluation methods, data analysis and research software. Published repositories should identify whether their results are demonstrations or production-ready tools.
 
 ## Open by design
 
@@ -30,6 +30,10 @@ How we work: our own code and documentation in these repositories were written w
 - [Before You Paste](https://github.com/parallexlabs/before-you-paste): a bilingual practice lab, [live in the browser](https://parallexlabs.github.io/before-you-paste/), for checking text for personal and sensitive details before it goes into a generative AI tool. It runs on the device, asks permission questions first, and the text you check is not sent to a server.
 - [Source Check Lab](https://github.com/parallexlabs/source-check-lab): a bilingual practice lab, [live in the browser](https://parallexlabs.github.io/source-check-lab/), for checking an AI-written summary against its sources, claim by claim. People commit a verdict first; optional hints run on the device.
 - [Translation Check Lab](https://github.com/parallexlabs/translation-check-lab): a bilingual practice lab, [live in the browser](https://parallexlabs.github.io/translation-check-lab/), for checking short humanitarian broadcast SMS messages and their translations before sending. It flags changed numbers, times, contacts, negation and dropped instructions, and a person's review record gates the final text; optional translation models run on the device.
+- [Surrey Development Visualization](https://github.com/parallexlabs/surrey-devviz-prototype): approved City of Surrey development applications with civic places, SkyTrain and plan areas in an accessible 3D map, from public data; not a City system.
+- [Community Asset Mapper](https://github.com/parallexlabs/community-asset-mapper): community service inventories built from partner spreadsheets, with HSDS 3.0 validation, geocoding provenance and explainable duplicate review.
+- [SeismicWire](https://github.com/parallexlabs/seismicwire): a pre-registered study of semantic differential testing for miniSEED decoders, checking decoded values as well as crashes.
+- [Bilingual Workplace Practice](https://github.com/parallexlabs/bilingual-workplace-practice): a bilingual (English and French) browser prototype for workplace language practice with rule-based feedback; nothing leaves the browser.
 
 We are open-sourcing more of our tools and learning materials in stages. Each new repository appears here after its tests pass and an AI-assisted release check of its code, text and accessibility.
 
